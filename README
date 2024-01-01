@@ -1,0 +1,6 @@
+Pokemon Partitioning Script Instructions
+
+1. Place the `pokemon.csv` file in the same directory as the script.
+
+2. Run the partitioning script using this command:
+    time ./a5.sh
